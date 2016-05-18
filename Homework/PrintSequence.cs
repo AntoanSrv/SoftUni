@@ -17,7 +17,7 @@ class PrintSequence
             {
                 Console.Write(-i + ", ");
             }
-		Console.WriteLine("Displayed is the sequence of numbers between 2 and 12");
+            
         }
     }
 }
