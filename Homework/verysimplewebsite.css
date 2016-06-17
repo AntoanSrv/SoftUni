@@ -1,0 +1,59 @@
+﻿.header {
+    border: 1px #AAA;
+    border-radius: 1px;
+    background: #F5F5DC;
+    padding: 1px;
+    text-align: center;
+    font: bold 16pt Arial;
+}
+
+.menu {
+    display: block;
+    width: 120px;
+    border-radius: 10px;
+    text-decoration: none;
+    background: #F5F5DC;
+    padding: 20px;
+    float: left;
+    text-align: left;
+    width: auto; 
+}
+
+.menu a {
+    text-align: center;
+    font: 14pt Arial;
+    color: #A7576C;
+    text-decoration: none;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px;  
+}
+
+.text {   
+    background: #F5F5F5;
+    padding: 20px;
+    border-radius: 10px;
+    float: right;
+    text-align: right;
+    width: 87%;
+    margin-bottom: 10px;   
+}
+
+.text p {
+   text-align: left; 
+   font: 12pt Arial;
+}
+
+.copyright {
+    clear: both;
+    margin-top: 20px; 
+    display: block; 
+    position: relative;
+    border: 1px #AAA;
+    border-radius: 1px;
+    background: #F5F5DC;
+    padding: 2px;
+    text-align: center;
+    font: 12pt Arial;
+}
